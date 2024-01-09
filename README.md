@@ -126,4 +126,4 @@ If you wish to contribute code/algorithms to this project, or have any question 
 
 ### Citation
 **Anyone who use the code please cite:**
- "Bin Chen., Erik Jungstedt., `Fast, robust, accurate and large-converge-radius inverse compositional Levenberg–Marquardt algorithm for digital image correlation: principle, validation and open-source toolbox`. (under review)". If you need to redistribute the software, please keep the original author information.
+ "Chen, Bin, and Erik Jungstedt. "Fast and large-converge-radius inverse compositional Levenberg–Marquardt algorithm for digital image correlation: principle, validation, and open-source toolbox." Optics and Lasers in Engineering 151 (2022): 106930.". If you need to redistribute the software, please keep the original author information.
